@@ -1,2 +1,7 @@
 # JohnsonUtils4Droid
-Useful l tools library for Android
+Usefull tools library for Android
+
+The detail plan is comming soon... 
+
+
+
